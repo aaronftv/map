@@ -1,0 +1,6 @@
+c:\users\aaron.topete\documents\visual studio 2013\Projects\CalculatorChallenge\CalculatorChallenge\bin\CalculatorChallenge.dll.config
+c:\users\aaron.topete\documents\visual studio 2013\Projects\CalculatorChallenge\CalculatorChallenge\bin\CalculatorChallenge.dll
+c:\users\aaron.topete\documents\visual studio 2013\Projects\CalculatorChallenge\CalculatorChallenge\bin\CalculatorChallenge.pdb
+c:\users\aaron.topete\documents\visual studio 2013\Projects\CalculatorChallenge\CalculatorChallenge\obj\Debug\CalculatorChallenge.csprojResolveAssemblyReference.cache
+c:\users\aaron.topete\documents\visual studio 2013\Projects\CalculatorChallenge\CalculatorChallenge\obj\Debug\CalculatorChallenge.dll
+c:\users\aaron.topete\documents\visual studio 2013\Projects\CalculatorChallenge\CalculatorChallenge\obj\Debug\CalculatorChallenge.pdb
